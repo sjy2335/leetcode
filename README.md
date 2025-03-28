@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sjy2335/leetcode/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/sjy2335/leetcode/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/sjy2335/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
@@ -45,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sjy2335/leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sjy2335/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sjy2335/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
