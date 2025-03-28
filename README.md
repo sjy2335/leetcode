@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sjy2335/leetcode/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sjy2335/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sjy2335/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
 ## String
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sjy2335/leetcode/tree/master/0146-lru-cache) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
