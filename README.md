@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
+| [1894-merge-strings-alternately](https://github.com/sjy2335/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
+| [1894-merge-strings-alternately](https://github.com/sjy2335/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Linked List
 |  |
 | ------- |
