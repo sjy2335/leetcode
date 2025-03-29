@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sjy2335/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
+| [0227-basic-calculator-ii](https://github.com/sjy2335/leetcode/tree/master/0227-basic-calculator-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sjy2335/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/sjy2335/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sjy2335/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sjy2335/leetcode/tree/master/1894-merge-strings-alternately) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sjy2335/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+## Math
+|  |
+| ------- |
+| [0227-basic-calculator-ii](https://github.com/sjy2335/leetcode/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
