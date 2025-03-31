@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sjy2335/leetcode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sjy2335/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sjy2335/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
 | [0227-basic-calculator-ii](https://github.com/sjy2335/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sjy2335/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
 ## Hash Table
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
 ## Matrix
 |  |
@@ -47,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [1894-merge-strings-alternately](https://github.com/sjy2335/leetcode/tree/master/1894-merge-strings-alternately) |
