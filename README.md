@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sjy2335/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/sjy2335/leetcode/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sjy2335/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/sjy2335/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sjy2335/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 ## Tree
