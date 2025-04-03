@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sjy2335/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
 ## Matrix
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sjy2335/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sjy2335/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/sjy2335/leetcode/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/sjy2335/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
