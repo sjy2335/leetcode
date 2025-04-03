@@ -1,28 +1,32 @@
 class Solution {
     public String longestPalindrome(String s) {
-        if (s == null || s.length() < 1) return "";
-        
+        int N = s.length();
+        boolean[][] cache = new boolean[N][N];
         int start = 0, end = 0;
-        for (int i = 0; i < s.length(); i++) {
-            int len1 = expandAroundCenter(s, i, i);
-            int len2 = expandAroundCenter(s, i, i + 1);
-            int len = Math.max(len1, len2);
-            
-            if (len > end - start) {
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
+
+        for (int i = 0; i < N; i++) {
+            cache[i][i] = true;
+        }
+
+        for (int i = 0; i < N - 1; i++) {
+            if (s.charAt(i) == s.charAt(i + 1)) {
+                cache[i][i + 1] = true;
+                start = i;
+                end = i + 1;
             }
         }
+
+        for (int length = 3; length <= N; length++) {
+            for (int left = 0; left <= N - length; left++) {
+                int right = left + length - 1;
+                if (cache[left + 1][right - 1] && s.charAt(left) == s.charAt(right)) {
+                    cache[left][right] = true;
+                    start = left;
+                    end = right;
+                }
+            }
+        }
+
         return s.substring(start, end + 1);
     }
-    
-    private int expandAroundCenter(String s, int left, int right) {
-        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
-            left--;
-            right++;
-        }
-        return right - left - 1;
-    }
 }
-
-// O(N^2) in worst case
