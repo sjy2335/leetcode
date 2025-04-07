@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sjy2335/leetcode/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/sjy2335/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1002-maximum-width-ramp](https://github.com/sjy2335/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Stack
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sjy2335/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
 | [0227-basic-calculator-ii](https://github.com/sjy2335/leetcode/tree/master/0227-basic-calculator-ii) |
+| [1002-maximum-width-ramp](https://github.com/sjy2335/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sjy2335/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sjy2335/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sjy2335/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sjy2335/leetcode/tree/master/0085-maximal-rectangle) |
+| [1002-maximum-width-ramp](https://github.com/sjy2335/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0408-valid-word-abbreviation](https://github.com/sjy2335/leetcode/tree/master/0408-valid-word-abbreviation) |
 | [0680-valid-palindrome-ii](https://github.com/sjy2335/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1002-maximum-width-ramp](https://github.com/sjy2335/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sjy2335/leetcode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [1894-merge-strings-alternately](https://github.com/sjy2335/leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
