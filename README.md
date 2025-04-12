@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/sjy2335/leetcode/tree/master/0200-number-of-islands) |
 | [0560-subarray-sum-equals-k](https://github.com/sjy2335/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/sjy2335/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1002-maximum-width-ramp](https://github.com/sjy2335/leetcode/tree/master/1002-maximum-width-ramp) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sjy2335/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0912-random-pick-with-weight](https://github.com/sjy2335/leetcode/tree/master/0912-random-pick-with-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sjy2335/leetcode/tree/master/0009-palindrome-number) |
 | [0227-basic-calculator-ii](https://github.com/sjy2335/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0912-random-pick-with-weight](https://github.com/sjy2335/leetcode/tree/master/0912-random-pick-with-weight) |
 ## Union Find
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sjy2335/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-random-pick-with-weight](https://github.com/sjy2335/leetcode/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sjy2335/leetcode/tree/master/0680-valid-palindrome-ii) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/sjy2335/leetcode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
