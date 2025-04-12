@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sjy2335/leetcode/tree/master/0009-palindrome-number) |
 | [0227-basic-calculator-ii](https://github.com/sjy2335/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0912-random-pick-with-weight](https://github.com/sjy2335/leetcode/tree/master/0912-random-pick-with-weight) |
+| [2383-add-two-integers](https://github.com/sjy2335/leetcode/tree/master/2383-add-two-integers) |
 ## Union Find
 |  |
 | ------- |
