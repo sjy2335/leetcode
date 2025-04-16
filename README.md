@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sjy2335/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sjy2335/leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/sjy2335/leetcode/tree/master/1894-merge-strings-alternately) |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/sjy2335/leetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sjy2335/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sjy2335/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/sjy2335/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/sjy2335/leetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Tree
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sjy2335/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [3425-maximum-number-of-potholes-that-can-be-fixed](https://github.com/sjy2335/leetcode/tree/master/3425-maximum-number-of-potholes-that-can-be-fixed) |
 ## Randomized
 |  |
 | ------- |
